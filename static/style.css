@@ -1,0 +1,12 @@
+body {
+    padding-bottom: 40px; 
+    
+}
+
+.content {
+    flex-grow: 1; 
+    
+}
+.footer{
+    background-color: aliceblue;
+}
